@@ -228,6 +228,13 @@ https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2MjMwNzc1Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzNlZHMvQXJ0ZWFySEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2ZjcxMWIwMmExYjEwNWIwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.BPLWvK4nakPliRVi95JE-Cg5zlC8dlJiACcPlB6EsAN7VK1NviZD-EewiWyxRk_8TPHN6261Oc0DnlehkH-3jg==/live/c4eds/Telefe_MDQ_HD/SA_Live_dash_enc/Telefe_MDQ_HD.mpd?|referer=https://portal.app.flow.com.ar&origin=https://portal.app.flow.com.ar
 
+#EXTINF:-1 tvg-logo="" group-title="Argentina", CANAL 10 MDP
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Canal_10_Mar_del_Plata_nuevo_logo.png/250px-Canal_10_Mar_del_Plata_nuevo_logo.png"
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f353c7f02f643da9049646fb835abcf:ae8630fc13b9e4554c56bd0be31be74f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2MjMwNzc1Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzNlZHMvQXJ0ZWFySEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2ZjcxMWIwMmExYjEwNWIwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.BPLWvK4nakPliRVi95JE-Cg5zlC8dlJiACcPlB6EsAN7VK1NviZD-EewiWyxRk_8TPHN6261Oc0DnlehkH-3jg==/live/c6eds/Canal_10_MDQ/SA_Live_dash_enc/Canal_10_MDQ.mpd?|referer=https://portal.app.flow.com.ar&origin=https://portal.app.flow.com.ar
+
 #EXTINF:-1 tvg-id="Volver.ar"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/volver-ar.png" group-title="Nacional",Volver 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"194e53184a424ce6989ad82c5f28fbc5":"65d60c5cc4de031172be0a6a51edbdfe"}
