@@ -5,20 +5,33 @@ Nacional
 #EXTINF:-1 group-logo="https://i.ibb.co/5hD6LMyY/Picsart-25-08-25-19-38-57-487.webp"
 
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=662447df521fb590b72b1a11671c2afd:81c204c443987d7b176587d626a124a0
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+#EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png" group-title="FLOW"  ,Canal 3 ROSARIO
+https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2MjMwNzc1Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzNlZHMvQXJ0ZWFySEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2ZjcxMWIwMmExYjEwNWIwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.BPLWvK4nakPliRVi95JE-Cg5zlC8dlJiACcPlB6EsAN7VK1NviZD-EewiWyxRk_8TPHN6261Oc0DnlehkH-3jg==/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Canal_3_Rosario.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e7ec364ad6854fedad797538cb58780d:57dfb3fca2ca35b37ff81c35595e9be8
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/723/CH_LOGO/60/40/0/0/7392338407887.png" group-title="FLOW"   ,Telemax
+https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2MjMwNzc1Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzNlZHMvQXJ0ZWFySEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2ZjcxMWIwMmExYjEwNWIwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.BPLWvK4nakPliRVi95JE-Cg5zlC8dlJiACcPlB6EsAN7VK1NviZD-EewiWyxRk_8TPHN6261Oc0DnlehkH-3jg==/live/c6eds/Telemax/SA_Live_dash_enc/Telemax.mpd|referer=https://portal.app.flow.com.ar&origin=https://portal.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"cc8c82ac2ec7e9799527c29db7354e81":"cc4aae173dd2ef17ae26be3f7ae87662"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/6cvkTygb/Televisi-n-P-blica-Argentina-2021.png" group-title="Nacional",TV Pública 
-https://edge-mix01-mun.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2MjMwNzc1Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzNlZHMvQXJ0ZWFySEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2ZjcxMWIwMmExYjEwNWIwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.BPLWvK4nakPliRVi95JE-Cg5zlC8dlJiACcPlB6EsAN7VK1NviZD-EewiWyxRk_8TPHN6261Oc0DnlehkH-3jg==/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd
+https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2MjMwNzc1Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzNlZHMvQXJ0ZWFySEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2ZjcxMWIwMmExYjEwNWIwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.BPLWvK4nakPliRVi95JE-Cg5zlC8dlJiACcPlB6EsAN7VK1NviZD-EewiWyxRk_8TPHN6261Oc0DnlehkH-3jg==/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"cc8c82ac2ec7e9799527c29db7354e81":"cc4aae173dd2ef17ae26be3f7ae87662"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 #EXTINF:-1 tvg-id="TV Pública.ar" tvg-logo="https://i.ibb.co/6cvkTygb/Televisi-n-P-blica-Argentina-2021.png" group-title="Nacional",TV Pública FHD
-https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2MjMwNzc1Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzNlZHMvQXJ0ZWFySEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2ZjcxMWIwMmExYjEwNWIwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.BPLWvK4nakPliRVi95JE-Cg5zlC8dlJiACcPlB6EsAN7VK1NviZD-EewiWyxRk_8TPHN6261Oc0DnlehkH-3jg==/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
+https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2MjMwNzc1Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzNlZHMvQXJ0ZWFySEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2ZjcxMWIwMmExYjEwNWIwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.BPLWvK4nakPliRVi95JE-Cg5zlC8dlJiACcPlB6EsAN7VK1NviZD-EewiWyxRk_8TPHN6261Oc0DnlehkH-3jg==/live/c6eds/Canal7/SA_Live_dash_enc_wl/Canal7.mpd
 
 
 #EXTINF:-1 tvg-id="Canal 9.ar" tvg-logo="https://i.ibb.co/6RrJVHmX/345-3453836-ar-canal-9-el-nueve-el-nueve-logo.png" group-title="Nacional",El Nueve 
