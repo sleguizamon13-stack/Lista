@@ -222,6 +222,11 @@ https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #EXTINF:-1 ch-number="11" tvg-id=".ar" tvg-logo="https://i.postimg.cc/K8HLKxkr/Canal-90-Digital.png" group-title="Nacional",Canal 90 Digital
 https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2MjMwNzc1Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzNlZHMvQXJ0ZWFySEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2ZjcxMWIwMmExYjEwNWIwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.BPLWvK4nakPliRVi95JE-Cg5zlC8dlJiACcPlB6EsAN7VK1NviZD-EewiWyxRk_8TPHN6261Oc0DnlehkH-3jg==/live/c6eds/Canal_90/SA_Live_dash_enc/Canal_90.mpd
 
+#EXTINF:-1  ch-number="11" tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Canal_8_Mar_del_Plata_%28Logo_2022_-_2%29.png/500px-Canal_8_Mar_del_Plata_%28Logo_2022_-_2%29.png" group-title="Argentina", Canal 8 MDP
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=cd82180cb606cee7547f58298c4f8fcb:844489c5f007fbe4afa36c8d64528d73
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2MjMwNzc1Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzNlZHMvQXJ0ZWFySEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiI2ZjcxMWIwMmExYjEwNWIwIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.BPLWvK4nakPliRVi95JE-Cg5zlC8dlJiACcPlB6EsAN7VK1NviZD-EewiWyxRk_8TPHN6261Oc0DnlehkH-3jg==/live/c4eds/Telefe_MDQ_HD/SA_Live_dash_enc/Telefe_MDQ_HD.mpd?|referer=https://portal.app.flow.com.ar&origin=https://portal.app.flow.com.ar
 
 #EXTINF:-1 tvg-id="Volver.ar"  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/volver-ar.png" group-title="Nacional",Volver 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
