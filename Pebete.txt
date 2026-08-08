@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina4.xml.gz,https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz"
  
 Nacional
  
