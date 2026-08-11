@@ -1369,3 +1369,6 @@ http://tv.m3uts.xyz/stream/secure/T_-bCN43/635.m3u8
 #EXTINF:-1 tvg-id="635" tvg-logo="http://i.tvcluboficial.com/lossimpsons.png" group-title="24/7",Los Simpson 24/7
 #EXTVLCOPT:network-caching=1000
 https://lbgo.bozztv.com/ssh101/ssh101/simptestnews/playlist.m3u8
+
+#EXTINF:-1 tvg-id="1148" tvg-logo="http://i.tvcluboficial.com/dazn.png" group-title="Deportes",DAZN HD
+http://astramain.xyz/play/vetCC7F1WkA0wlYRh_EEJPML8Ip9HtkT0A-w7RFhOnweho32AMjn7wuTSlvyHvq-9u4ehLhvfRfW6ftJDRNo7Q/.m3u8
