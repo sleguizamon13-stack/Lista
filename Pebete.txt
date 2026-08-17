@@ -333,70 +333,69 @@ https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #EXTINF:-1 ch-number="11" tvg-id="Flow Sports 2.ar" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/81153935071360.png" group-title="Deportes", Flow Sports 2
 https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MDU0ODc2Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjNDg4M2Y1NWM1YjEyNWM5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.e1V0GAmUZswADASTuwLalAktNALA6jciWLlQRuoONnfq-1apFXyO2gErGZvh1ET9cJr67DpbfusQm1Y4FDI0Hw==/live/c6eds/Eventos_2_HD/SA_Live_dash_enc/Eventos_2_HD.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=334001b2f2644df9bdf35e92d2b89f8f:475ec87d86ed0636dbb6d6d9d4a43bb7
-#EXTINF:-1 ch-number="11" tvg-id="PAKA PAKA (ARG).ar" tvg-logo="https://i.postimg.cc/Y9nMcbT7/Fondo_Oscuro.png" group-title="Infantil", Paka Paka
-https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MDU0ODc2Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjNDg4M2Y1NWM1YjEyNWM5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.e1V0GAmUZswADASTuwLalAktNALA6jciWLlQRuoONnfq-1apFXyO2gErGZvh1ET9cJr67DpbfusQm1Y4FDI0Hw==/live/c6eds/PAKA_PAKA/SA_Live_dash_enc/PAKA_PAKA.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+LPF Play
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a742e478d14023e1993e011d9415f94:0df77ede9bc744376836d21afa137dda
-#EXTINF:-1 tvg-id="[DISNLS].Disney.Channel.uy" tvg-logo="https://i.postimg.cc/MpXdYn3G/Disney_Channel.png" group-title="Infantil", Disney Channel
-https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MDU0ODc2Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjNDg4M2Y1NWM1YjEyNWM5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.e1V0GAmUZswADASTuwLalAktNALA6jciWLlQRuoONnfq-1apFXyO2gErGZvh1ET9cJr67DpbfusQm1Y4FDI0Hw==/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s"
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=61c18cefecc2d067beaa9ff181305345:38d6f650cbf9a38fd9f35c01f98e647a
-#EXTINF:-1 ch-number="209" tvg-id="[NIKL].Nick.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/320/CH_LOGO/800/542/0/0/70239189071229.png" group-title="Infantil", Nickelodeon
-https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MDU0ODc2Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjNDg4M2Y1NWM1YjEyNWM5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.e1V0GAmUZswADASTuwLalAktNALA6jciWLlQRuoONnfq-1apFXyO2gErGZvh1ET9cJr67DpbfusQm1Y4FDI0Hw==/live/c3eds/Nickelodeon/SA_Live_dash_enc/Nickelodeon.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/1.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d7df56efaa36a71141d238854cc46d1d:8abb2ee9150d8b2af8ebec0de0f833c8
-#EXTINF:-1 tvg-id="Cartoon Network.uy" tvg-logo="https://i.postimg.cc/vmjDf8ZR/Texto_Blanco.png" group-title="Infantil",Cartoon Network
-https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MDU0ODc2Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjNDg4M2Y1NWM1YjEyNWM5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.e1V0GAmUZswADASTuwLalAktNALA6jciWLlQRuoONnfq-1apFXyO2gErGZvh1ET9cJr67DpbfusQm1Y4FDI0Hw==/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 1
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/2.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=7f30c43e47544412221fd64201d92f4b:f83d09d75a0946b1d71aa48c201b4d8b
-#EXTINF:-1 ch-number="11" tvg-id="DREAMWORKS.pe" tvg-logo="https://static.flow.com.ar/images/673/CH_LOGO/500/500/0/0/36735087077133.png" group-title="Infantil", DreamWorks
-https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MDU0ODc2Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjNDg4M2Y1NWM1YjEyNWM5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.e1V0GAmUZswADASTuwLalAktNALA6jciWLlQRuoONnfq-1apFXyO2gErGZvh1ET9cJr67DpbfusQm1Y4FDI0Hw==/live/c7eds/Dreamworks/SA_Live_dash_enc/Dreamworks.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 2
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/3.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ffb2f0f63c23a3592d4653e938b9ca19:d3661ae881fc55fc7a15815cd439747b
-#EXTINF:-1 ch-number="204" tvg-id="Discovery Kids HD.uy" tvg-logo="https://i.postimg.cc/WbSw-Jyxm/DKids.png" group-title="Infantil", Discovery Kids
-https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MDU0ODc2Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjNDg4M2Y1NWM1YjEyNWM5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.e1V0GAmUZswADASTuwLalAktNALA6jciWLlQRuoONnfq-1apFXyO2gErGZvh1ET9cJr67DpbfusQm1Y4FDI0Hw==/live/c6eds/Discovery_Kids/SA_Live_dash_enc/Discovery_Kids.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 3
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/4.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5792e613fceb699c79cbc0e75fe4cd37:a672793730476ed23e5c1bce2ff570c6
-#EXTINF:-1 ch-number="203" tvg-id="Cartoonito.ar" tvg-logo="https://i.postimg.cc/bwHN3vGc/Fondo-Oscuro.png" group-title="Infantil", Cartoonito
-https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MDU0ODc2Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjNDg4M2Y1NWM1YjEyNWM5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.e1V0GAmUZswADASTuwLalAktNALA6jciWLlQRuoONnfq-1apFXyO2gErGZvh1ET9cJr67DpbfusQm1Y4FDI0Hw==/live/c7eds/Boomerang/SA_Live_dash_enc/Boomerang.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 4
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/5.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd29c4a538f28845ce33581111749428:46d9589f41a11c3637c07c604956deac
-#EXTINF:-1 tvg-id="Disney Jr HD.uy" tvg-logo="https://i.postimg.cc/1zqBLLZT/Disney_JR.png" group-title="Infantil", Disney Jr.
-https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MDU0ODc2Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjNDg4M2Y1NWM1YjEyNWM5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.e1V0GAmUZswADASTuwLalAktNALA6jciWLlQRuoONnfq-1apFXyO2gErGZvh1ET9cJr67DpbfusQm1Y4FDI0Hw==/live/c7eds/DisneyJr/SA_Live_dash_enc/DisneyJr.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 5
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/6.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9e09f0a3ecb932582e0f3bc6a6194c8d:6d2363b7ba7680ea3bf6dcbad1efa5bf
-#EXTINF:-1 group-title="Infantil" ch-number="200" tvg-id="Baby TV.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1815/CH_LOGO/800/542/0/0/2335855007695.png", Baby TV
-https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MDU0ODc2Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjNDg4M2Y1NWM1YjEyNWM5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.e1V0GAmUZswADASTuwLalAktNALA6jciWLlQRuoONnfq-1apFXyO2gErGZvh1ET9cJr67DpbfusQm1Y4FDI0Hw==/live/c7eds/BabyTV/SA_Live_dash_enc/BabyTV.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 6
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/7.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=10638a722eb54c64bfb0e7a77483686a:41a7d3d522e19215b7e8f611b6902d61
-#EXTINF:-1 ch-number="212" tvg-id="TOONCAST.ar"  tvg-logo="https://i.postimg.cc/FFZp5y2R/Logo-2.png" group-title="Infantil", Tooncast
-https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MDU0ODc2Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjNDg4M2Y1NWM1YjEyNWM5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.e1V0GAmUZswADASTuwLalAktNALA6jciWLlQRuoONnfq-1apFXyO2gErGZvh1ET9cJr67DpbfusQm1Y4FDI0Hw==/live/c6eds/Tooncast/SA_Live_dash_enc/Tooncast.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 7
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/8.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=e824b2277a86fd6adfc40aa948e5064a:28da2dbbe8e1a1463bbb23895b922083
-#EXTINF:-1 ch-number="210" tvg-id="[NICKJLM].Nick.Jr..uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/863/CH_LOGO/800/542/0/0/61362740071226.png" group-title="Infantil", Nick Jr.
-https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MDU0ODc2Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjNDg4M2Y1NWM1YjEyNWM5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.e1V0GAmUZswADASTuwLalAktNALA6jciWLlQRuoONnfq-1apFXyO2gErGZvh1ET9cJr67DpbfusQm1Y4FDI0Hw==/live/c6eds/Nick_Jr/SA_Live_dash_enc/Nick_Jr.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 8
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/9.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=8e88e1572dcd2b31a10026668d628d61:ab95bdc2655aff4f4a8e512fb68c80df
-#EXTINF:-1 tvg-id="Plim Plim.ar" tvg-logo="https://i.postimg.cc/sf96fdZR/Logo.png" group-title="Infantil", Plim Plim TV
-https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MDU0ODc2Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjNDg4M2Y1NWM1YjEyNWM5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.e1V0GAmUZswADASTuwLalAktNALA6jciWLlQRuoONnfq-1apFXyO2gErGZvh1ET9cJr67DpbfusQm1Y4FDI0Hw==/live/c6eds/Plim_Plim/SA_Live_dash_enc/Plim_Plim.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 9
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/10.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=dcd89337a501ab929c01a039774089dc:e96cc7be9139a8d581b3f5eebebfc10d
-#EXTINF:-1 tvg-id="0321" tvg-logo="https://i.postimg.cc/Z5y6RpDq/Logo-1.png" group-title="Infantil",KidOO
-https://edge-live04-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MDU0ODc2Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJjNDg4M2Y1NWM1YjEyNWM5Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMCIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.e1V0GAmUZswADASTuwLalAktNALA6jciWLlQRuoONnfq-1apFXyO2gErGZvh1ET9cJr67DpbfusQm1Y4FDI0Hw==/live/c6eds/Kidoo/SA_Live_dash_enc/Kidoo.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 10
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/11.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZ6wFKZpX50YgvcWVcljC7HWaRdFg7uSb8w&s" group-title="LPF Play", LPF Play 11
+#EXTVLCOPT:http-referrer=https://www.lpfplay.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36
+https://emitiendoenvivo.com:443/lpf/12.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
