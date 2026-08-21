@@ -26,7 +26,7 @@ https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
-#EXTINF:-1 ch-number="11" tvg-id="America TV (ARG).ar" tvg-logo="https://i.postimg.cc/WpH8xpLd/Normal_2.png" group-title="Interés General", América 
+#EXTINF:-1 ch-number="11" tvg-id="America TV (ARG).ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/PKQmsFunFuubjSQPop2k-Q?tags=CH_LOGO" group-title="Interés General", América 
 https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MzMzMzUyIiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiIwODdhMDJkNmRhNDI4NzU1Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6IjMxMSIsInNvdXJjZXMiOls4NSwxNDQsMjEwLDg2LDg4XX0=.gm-egqG-l_xs3dy9hzCtM2eOnJmuLO-Att_6aBLT97Tw375iv8SX9ODz7h1BRjetPw51s7GY-8iJzCmmt2nRig==/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
