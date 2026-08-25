@@ -290,8 +290,7 @@ https://edge-live19-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="URUGUAY", DSports Uruguay Premium 🇺🇾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1514d9604471cf747e7d2aa85596986:dab3699c4c14764366a7ea9d5a75541e
-https://edge-live19-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3ODMyMjkxIiwic2lwIjoiMjAxLjI1MS40Ni4xNDciLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJiODU0ZGQ3ZmZkNTU3YjI3Iiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMzQ1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.7crVIhS9FJzPMj9s8u_Pa-k36d2wNvfT_SZNvYB5XpXotuVmnukKidPyR-oE_zJd3G4FV2h2zLzIhwjjMSmFcA==/live/c4eds/DSports_Uruguay_Premium/SA_Live_dash_enc/DSports_Uruguay_Premium.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+https://cdn.cvattv.com.a/live/c4eds/DSports_Uruguay_Premium/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DSports_Uruguay_Premium.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 #EXTINF:-1 tvg-id="1148" tvg-logo="http://i.tvcluboficial.com/dazn.png" group-title="Deportes",DAZN HD
 http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
