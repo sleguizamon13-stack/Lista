@@ -269,7 +269,7 @@ https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="URUGUAY", DSports Uruguay Premium 🇺🇾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://cdn.cvattv.com.a/live/c4eds/DSports_Uruguay_Premium/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DSports_Uruguay_Premium.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+https://cdn.cvattv.com.ar/live/c4eds/DSports_Uruguay_Premium/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DSports_Uruguay_Premium.mpd
 
 #EXTINF:-1 tvg-id="1148" tvg-logo="http://i.tvcluboficial.com/dazn.png" group-title="Deportes",DAZN HD
 http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
