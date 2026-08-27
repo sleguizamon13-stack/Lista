@@ -263,7 +263,7 @@ https://edge-live18-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://cdn.cvattv.com.ar/live/c4eds/DSports_Uruguay/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/DSports_Uruguay.mpd
 
-#EXTINF:-1 tvg-id="DSports2.uy" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="URUGUAY", Dsports 2 🇺🇾
+#EXTINF:-1 tvg-id="DSports2.uy" tvg-logo="https://i.ibb.co/qYfF4Mb3/DSports-2-2026.png" group-title="URUGUAY", Dsports 2 🇺🇾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=969a3f92b501140c840243fb52e2bde0:d9957d1813667c03e67f6b21632ea7b4
 https://edge-live18-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MDM4ODI2Iiwic2lwIjoiMjAxLjI1MS40Ni4xNDgiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVGVsZWZlSEQvU0FfTGl2ZV9kYXNoX2NlbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJhNjQ4ZTliYmFmZDJkNGIxIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMiIsImF1ZCI6IjM0NCIsInNvdXJjZXMiOls4NSwyMTAsODYsODhdfQ==.Lm_-VZvnWCtnPKrQf0Y8cvnxuUgCgRTtjVDyeF_64UL7j8HRqpXEtJ51Hdk8SdkVWXN8hDC5bZd_Lk8tL6b95w==/live/c7eds/Dsports2_UY/SA_Live_dash_enc/Dsports2_UY.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
