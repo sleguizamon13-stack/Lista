@@ -245,9 +245,9 @@ https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a
 https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37dd77b50/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="DSports.uy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-lam.png?raw=true" group-title="URUGUAY", DSports Uruguay
+#EXTINF:-1 tvg-id="DSports.uy" tvg-logo="https://i.postimg.cc/SKTnf8Lq/DSports-Uruguay.png" group-title="URUGUAY", DSports Uruguay
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=143c71292a6dd58404efad283b220539:9fceff2f3d70e2f569d5565407d7f743
+#KODIPROP:inputstream.adaptive.license_key=fdcd0d2ef253e616babf542a9fa2e77f:b03bccfcc1440596b2d09d75fb863832
 https://edge6-ccast-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NzAwNTExIiwic2lwIjoiMjAwLjYxLjIzLjEwNyIsInBhdGgiOiIvIiwic2Vzc2lvbl9jZG5faWQiOiI0YzgzNmNlOWU1ZGE1NmNjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjIyNSIsInNvdXJjZXMiOls4OF19.3VP6ULDBJDPtsQd6wgyZzWAWCVJpFZ8_0d0iFf9WqzevJkIwYMFBNxqduxxBDHkyBQdo2p2s68zU09SvPtUhSA==/live/c4eds/DSports_Uruguay/SA_Live_dash_enc/DSports_Uruguay.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 #EXTINF:-1 tvg-id="DSports2.uy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports2-lam.png?raw=true" group-title="URUGUAY", Dsports 2 UY
@@ -260,9 +260,9 @@ https://edge6-ccast-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 #KODIPROP:inputstream.adaptive.license_key=517d3690fb9e64f95a9272958a84df32:b563bc52ea05c1e7002a996f688b08b9
 https://edge6-ccast-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NzAwNTExIiwic2lwIjoiMjAwLjYxLjIzLjEwNyIsInBhdGgiOiIvIiwic2Vzc2lvbl9jZG5faWQiOiI0YzgzNmNlOWU1ZGE1NmNjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjIyNSIsInNvdXJjZXMiOls4OF19.3VP6ULDBJDPtsQd6wgyZzWAWCVJpFZ8_0d0iFf9WqzevJkIwYMFBNxqduxxBDHkyBQdo2p2s68zU09SvPtUhSA==/live/c7eds/Dsports_Plus_UY/SA_Live_dash_enc/Dsports_Plus_UY.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="URUGUAY", DSports Uruguay Premium
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/9MszvhNx/DSports-Uruguay-Premium.png" group-title="URUGUAY", DSports Uruguay Premium
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a1514d9604471cf747e7d2aa85596986:dab3699c4c14764366a7ea9d5a75541e
+#KODIPROP:inputstream.adaptive.license_key=e2ad044c97034afceaa46eed5e5f2bf1:eed15ba92518ce67a278ebf10e67e5ee
 https://edge6-ccast-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NzAwNTExIiwic2lwIjoiMjAwLjYxLjIzLjEwNyIsInBhdGgiOiIvIiwic2Vzc2lvbl9jZG5faWQiOiI0YzgzNmNlOWU1ZGE1NmNjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjIyNSIsInNvdXJjZXMiOls4OF19.3VP6ULDBJDPtsQd6wgyZzWAWCVJpFZ8_0d0iFf9WqzevJkIwYMFBNxqduxxBDHkyBQdo2p2s68zU09SvPtUhSA==/live/c4eds/DSports_Uruguay_Premium/SA_Live_dash_enc/DSports_Uruguay_Premium.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 #EXTINF:-1 tvg-id="1148" tvg-logo="http://i.tvcluboficial.com/dazn.png" group-title="Deportes",DAZN HD
