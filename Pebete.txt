@@ -3,7 +3,7 @@
 Nacional
  
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=662447df521fb590b72b1a11671c2afd:81c204c443987d7b176587d626a124a0
+#KODIPROP:inputstream.adaptive.license_key=ee913585839e85aef43ba0d9f9846748:2e91c53c7e5916b1b4b2917c2ec30ab4
 #EXTINF:-1   tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Eltres_RGB-grad_%28positivo%29.png" group-title="FLOW"  ,Canal 3 ROSARIO
 https://edge6-ccast-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NzAwNTExIiwic2lwIjoiMjAwLjYxLjIzLjEwNyIsInBhdGgiOiIvIiwic2Vzc2lvbl9jZG5faWQiOiI0YzgzNmNlOWU1ZGE1NmNjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjIyNSIsInNvdXJjZXMiOls4OF19.3VP6ULDBJDPtsQd6wgyZzWAWCVJpFZ8_0d0iFf9WqzevJkIwYMFBNxqduxxBDHkyBQdo2p2s68zU09SvPtUhSA==/live/c3eds/Canal_3_Rosario/SA_Live_dash_enc/Canal_3_Rosario.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
@@ -626,7 +626,7 @@ https://edge6-ccast-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 https://edge6-ccast-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NzAwNTExIiwic2lwIjoiMjAwLjYxLjIzLjEwNyIsInBhdGgiOiIvIiwic2Vzc2lvbl9jZG5faWQiOiI0YzgzNmNlOWU1ZGE1NmNjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjIyNSIsInNvdXJjZXMiOls4OF19.3VP6ULDBJDPtsQd6wgyZzWAWCVJpFZ8_0d0iFf9WqzevJkIwYMFBNxqduxxBDHkyBQdo2p2s68zU09SvPtUhSA==/live/c6eds/E_Entertainment_Television/SA_Live_dash_enc/E_Entertainment_Television.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=43bc6a87ee4f21aa320ba00b980a6fd8:bd55130539a30faa1d90b3142eebe0b2
+#KODIPROP:inputstream.adaptive.license_key=6e2bc2b3c9464c407af6d0559bb5e1ea:43ec5e698b6f60a0f41d604909a25186
 #EXTINF:-1 ch-number="11" tvg-id="Home and Health HD.uy" tvg-logo="https://i.postimg.cc/KvX2wggG/Discovery_Home_and_Healt.png" group-title="Estilo de vida", Discovery H&H
 https://edge6-ccast-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4NzAwNTExIiwic2lwIjoiMjAwLjYxLjIzLjEwNyIsInBhdGgiOiIvIiwic2Vzc2lvbl9jZG5faWQiOiI0YzgzNmNlOWU1ZGE1NmNjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjExNCIsImF1ZCI6IjIyNSIsInNvdXJjZXMiOls4OF19.3VP6ULDBJDPtsQd6wgyZzWAWCVJpFZ8_0d0iFf9WqzevJkIwYMFBNxqduxxBDHkyBQdo2p2s68zU09SvPtUhSA==/live/c3eds/DiscoveryHomeHealthHD/SA_Live_dash_enc/DiscoveryHomeHealthHD.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
