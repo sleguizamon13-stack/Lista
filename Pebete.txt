@@ -179,17 +179,13 @@ https://edge-live34-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 https://edge-live34-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4Nzc4ODcwIiwic2lwIjoiMTgxLjQ3LjIwLjEwOSIsInBhdGgiOiIvIiwic2Vzc2lvbl9jZG5faWQiOiJlYWU0MDQ5ZjBlMjdlMjlkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6Ijc5Iiwic291cmNlcyI6Wzg4XX0=.eY0uPF3sy6Gf-2ecGkuz-rL8ozYHdtXz1XV5czMRSyz1FUJVomotsifBWV7eGZSGVzv-gcSks0PiL-Sk9IWCNg==/live/c7eds/FoxSports2_UY/SA_Live_dash_enc/FoxSports2_UY.mpd|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"6362e1f36fcb7ee3c47debd9140336ad":"9ba1d46c5b9c7a3130a5dabbf7155175"}
+#KODIPROP:inputstream.adaptive.license_key=e95fe84b9f73e6655fde711d5c896056:267a0e514deb984803bec43cc607c4cb
 #EXTINF:-1 tvg-id="ESPN HD.uy" tvg-name="ESPN" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343656/cxuieragbu4epuhxo7in.png" group-title="Deportes",ESPN 🇺🇾 
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://edge-live34-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4Nzc4ODcwIiwic2lwIjoiMTgxLjQ3LjIwLjEwOSIsInBhdGgiOiIvIiwic2Vzc2lvbl9jZG5faWQiOiJlYWU0MDQ5ZjBlMjdlMjlkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6Ijc5Iiwic291cmNlcyI6Wzg4XX0=.eY0uPF3sy6Gf-2ecGkuz-rL8ozYHdtXz1XV5czMRSyz1FUJVomotsifBWV7eGZSGVzv-gcSks0PiL-Sk9IWCNg==/live/c4eds/ESPN_UY/SA_Live_dash_enc/ESPN_UY.mpd|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"0d820100144772fed9f38b83650fa7e1":"ded8cc47b29b0eb0b0a87df22e721847"}
+#KODIPROP:inputstream.adaptive.license_key=3f2e12c72e1a011be0569fbd9ca486ab:1273deabb3c043560fe264dd2b1690f1
 #EXTINF:-1 tvg-id="ESPN 2 HD.uy" tvg-name="ESPN 2" tvg-logo="https://raw.githubusercontent.com/masterentertainment/listas/refs/heads/main/logos/ESPN2.png" group-title="Deportes" ch-number="102" type="channel",ESPN 2 🇺🇾 
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://edge-live34-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4Nzc4ODcwIiwic2lwIjoiMTgxLjQ3LjIwLjEwOSIsInBhdGgiOiIvIiwic2Vzc2lvbl9jZG5faWQiOiJlYWU0MDQ5ZjBlMjdlMjlkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6Ijc5Iiwic291cmNlcyI6Wzg4XX0=.eY0uPF3sy6Gf-2ecGkuz-rL8ozYHdtXz1XV5czMRSyz1FUJVomotsifBWV7eGZSGVzv-gcSks0PiL-Sk9IWCNg==/live/c4eds/ESPN2_UY/SA_Live_dash_enc/ESPN2_UY.mpd|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -223,8 +219,7 @@ https://edge-live34-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 
 #EXTINF:-1 tvg-id="DSports2.ar" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/1440x1080/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_1440x1080.png" group-title="Deportes",DSports 2 (Flow) FHD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ic2lwIjoiMTkwLjIzMC4xMDEuMzYiLCJwYXRoIjoiL2xpdmUvYzZlZHMvRWxfR2FyYWdlL1NBX0xpdmVfZGFzaF9lbmMvIiwic2Vzc2lvbl9jZG5faWQiOiJkYzMzNzUwNTExNmZjNGRjIiwic2Vzc2lvbl9pZCI6ImMyYjExYzU2NjNjOWZmMjdhMWNmMGJlMTRmZDUyMWI4LTE3ODg0MDMxOTUtMTA3IiwiY2xpZW50X2lkIjoiZmxvdzoyMDYwNDk3LS1mbG93OjIwNjA0OTc6UDo2MDk1NDI5IiwiZGV2aWNlX2lkIjoiYzJiMTFjNTY2M2M5ZmYyN2ExY2YwYmUxNGZkNTIxYjgiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTQiLCJhdWQiOiIyNTkiLCJzb3VyY2VzIjpbNzcsODUsMTQ0LDIxMCw4Niw4OF19.fXQLm54FrCKUxqBwyhb0uwMBGKgsVh5aZED2gmCDGi2418eDwxMGoiuT5IeDkyv4rLrYrVSZEWqigVHy0Exlmg==/live/c3eds/DSports_2/SA_Live_dash_enc/DSports_2.mpd
-33848c262a3cc8c0eb8b34cdb9691f04:fd8e52ad745cec9e62263928a10f3abd
+#KODIPROP:inputstream.adaptive.license_key=33848c262a3cc8c0eb8b34cdb9691f04:fd8e52ad745cec9e62263928a10f3abd
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://edge-live34-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4Nzc4ODcwIiwic2lwIjoiMTgxLjQ3LjIwLjEwOSIsInBhdGgiOiIvIiwic2Vzc2lvbl9jZG5faWQiOiJlYWU0MDQ5ZjBlMjdlMjlkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6Ijc5Iiwic291cmNlcyI6Wzg4XX0=.eY0uPF3sy6Gf-2ecGkuz-rL8ozYHdtXz1XV5czMRSyz1FUJVomotsifBWV7eGZSGVzv-gcSks0PiL-Sk9IWCNg==/live/c3eds/DSports_2/SA_Live_dash_enc_wl/DSports_2.mpd|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
@@ -250,12 +245,12 @@ https://prope9660ag6.airspace-cdn.cbsivideo.com/out/v1/a634dbd5b8474f38b38a8ce37
 #KODIPROP:inputstream.adaptive.license_key=fdcd0d2ef253e616babf542a9fa2e77f:b03bccfcc1440596b2d09d75fb863832
 https://edge-live34-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4Nzc4ODcwIiwic2lwIjoiMTgxLjQ3LjIwLjEwOSIsInBhdGgiOiIvIiwic2Vzc2lvbl9jZG5faWQiOiJlYWU0MDQ5ZjBlMjdlMjlkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6Ijc5Iiwic291cmNlcyI6Wzg4XX0=.eY0uPF3sy6Gf-2ecGkuz-rL8ozYHdtXz1XV5czMRSyz1FUJVomotsifBWV7eGZSGVzv-gcSks0PiL-Sk9IWCNg==/live/c4eds/DSports_Uruguay/SA_Live_dash_enc/DSports_Uruguay.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
-#EXTINF:-1 tvg-id="DSports2.uy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports2-lam.png?raw=true" group-title="URUGUAY", Dsports 2 UY
+#EXTINF:-1 tvg-id="DSports2.uy" tvg-logo="https://i.ibb.co/qYfF4Mb3/DSports-2-2026.png" group-title="URUGUAY", Dsports 2 UY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=969a3f92b501140c840243fb52e2bde0:d9957d1813667c03e67f6b21632ea7b4
 https://edge-live34-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4Nzc4ODcwIiwic2lwIjoiMTgxLjQ3LjIwLjEwOSIsInBhdGgiOiIvIiwic2Vzc2lvbl9jZG5faWQiOiJlYWU0MDQ5ZjBlMjdlMjlkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6Ijc5Iiwic291cmNlcyI6Wzg4XX0=.eY0uPF3sy6Gf-2ecGkuz-rL8ozYHdtXz1XV5czMRSyz1FUJVomotsifBWV7eGZSGVzv-gcSks0PiL-Sk9IWCNg==/live/c7eds/Dsports2_UY/SA_Live_dash_enc/Dsports2_UY.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
-#EXTINF:-1 tvg-id="DSportsPlus.uy" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/world-latin-america/dsports-plus-lam.png?raw=true" group-title="URUGUAY", Dsports Plus UY
+#EXTINF:-1 tvg-id="DSportsPlus.uy" tvg-logo="https://i.ibb.co/ksTgZxm7/DSports-2026.png" group-title="URUGUAY", Dsports Plus UY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=517d3690fb9e64f95a9272958a84df32:b563bc52ea05c1e7002a996f688b08b9
 https://edge-live34-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4Nzc4ODcwIiwic2lwIjoiMTgxLjQ3LjIwLjEwOSIsInBhdGgiOiIvIiwic2Vzc2lvbl9jZG5faWQiOiJlYWU0MDQ5ZjBlMjdlMjlkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6Ijc5Iiwic291cmNlcyI6Wzg4XX0=.eY0uPF3sy6Gf-2ecGkuz-rL8ozYHdtXz1XV5czMRSyz1FUJVomotsifBWV7eGZSGVzv-gcSks0PiL-Sk9IWCNg==/live/c7eds/Dsports_Plus_UY/SA_Live_dash_enc/Dsports_Plus_UY.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
