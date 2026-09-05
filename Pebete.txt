@@ -116,14 +116,14 @@ https://edge-live34-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 #EXTINF:-1 ch-number="11" tvg-id="Diputados TV.ar" tvg-logo="https://i.postimg.cc/m2VyFnKH/Diputados.png" group-title="Interés General", Diputados TV
 https://edge-live34-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4Nzc4ODcwIiwic2lwIjoiMTgxLjQ3LjIwLjEwOSIsInBhdGgiOiIvIiwic2Vzc2lvbl9jZG5faWQiOiJlYWU0MDQ5ZjBlMjdlMjlkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6Ijc5Iiwic291cmNlcyI6Wzg4XX0=.eY0uPF3sy6Gf-2ecGkuz-rL8ozYHdtXz1XV5czMRSyz1FUJVomotsifBWV7eGZSGVzv-gcSks0PiL-Sk9IWCNg==/live/c6eds/Diputados_TV/SA_Live_dash_enc/Diputados_TV.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
-#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png" group-title="Pack Fútbol Argentino", TNT Sports Premium FHD
+#EXTINF:-1 tvg-id="TNT Sports.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/tnt-sports-ar.png?raw=true" group-title="Pack Fútbol Argentino", TNT Sports Premium FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://edge-live34-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4Nzc4ODcwIiwic2lwIjoiMTgxLjQ3LjIwLjEwOSIsInBhdGgiOiIvIiwic2Vzc2lvbl9jZG5faWQiOiJlYWU0MDQ5ZjBlMjdlMjlkIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8yMDEuMjM1LjY2LjEyMyIsImF1ZCI6Ijc5Iiwic291cmNlcyI6Wzg4XX0=.eY0uPF3sy6Gf-2ecGkuz-rL8ozYHdtXz1XV5czMRSyz1FUJVomotsifBWV7eGZSGVzv-gcSks0PiL-Sk9IWCNg==/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc_wl/TNT_Sports_HD.mpd|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
 
-#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png" group-title="Pack Fútbol Argentino", ESPN Premium FHD
+#EXTINF:-1 tvg-id="FOX Sports Premium.ar" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/argentina/espn-premium-ar.png?raw=true" group-title="Pack Fútbol Argentino", ESPN Premium FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
