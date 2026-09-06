@@ -265,7 +265,7 @@ http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
 
 #EXTINF:-1 tvg-id="Canal90.ar" tvg-logo="https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg" group-title="NACIONALES Y NOTICIAS", DISNEY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-http://nxtv2112.xyz:80/live/TinoTv2026/6YJSDduQ9c/1718065.ts
+http://45.226.28.9:8085/Live/239061217b1a5957f6410945859ce45d/local-evento1_1080.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=03d1dfb8df034d8b81e57753df00a36d:08d83660db4a73bb1d61d60b09df5f4d
