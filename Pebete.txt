@@ -29,6 +29,11 @@ https://edge-live01-mun.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVC
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/H__k71paYRrVP0funRIWvg?tags=CH_LOGO" group-title="Nacional",Telefe FHD
 https://edge-live01-mun.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NzYyMDExIiwic2lwIjoiMTkwLjIyNy4xOS4xMTkiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiZGM1MDQzMWI0M2UyNzVhNiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMTYiLCJzb3VyY2VzIjpbMTA1LDg4XX0=.Ysr54UrmchHnmtduXJgAx6nIXwwMwLylP3dar6Rfpo-my2S-OobZAfVHqJ7Ih8e6kJ4ZHratEiDRZakplwyD7A==/live/c6eds/TelefeHD/SA_Live_dash_enc_wl/TelefeHD.mpd|referer=https://portal.app.flow.com.ar/|origin=https://portal.app.flow.com.ar
 
+#EXTINF:-1  ch-number="11" tvg-id="Telefe.ar" tvg-name="Telefe.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Canal_8_Mar_del_Plata_%28Logo_2022_-_2%29.png/500px-Canal_8_Mar_del_Plata_%28Logo_2022_-_2%29.png" group-title="Argentina", Canal 8 MDP
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=21950b9f062c103e5c86e5c56503f87e:af16022b6979a2c3b7f179b544dbd893
+https://edge-live01-mun.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NzYyMDExIiwic2lwIjoiMTkwLjIyNy4xOS4xMTkiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiZGM1MDQzMWI0M2UyNzVhNiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMTYiLCJzb3VyY2VzIjpbMTA1LDg4XX0=.Ysr54UrmchHnmtduXJgAx6nIXwwMwLylP3dar6Rfpo-my2S-OobZAfVHqJ7Ih8e6kJ4ZHratEiDRZakplwyD7A==/live/c4eds/Telefe_MDQ_HD/SA_Live_dash_enc/Telefe_MDQ_HD.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/ 
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=589f5b6f4afec0b3362cd6be2ab1eb36:6d685f3151730ca6a4be7765a46d30a5
 #EXTINF:-1 ch-number="11" tvg-id="La TV Pública (ARG).ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/IE0Yf-Y3qxyupJcRblURuQ?tags=CH_LOGO" group-title="Interés General", TV Pública
@@ -38,6 +43,14 @@ https://edge-live01-mun.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVC
 #KODIPROP:inputstream.adaptive.license_key=4aa8ec10f92b212c0cbaaa8e0591b468:17985aeaac30e62e6dad45f4df84cc2c
 #EXTINF:-1 ch-number="11" tvg-id="EL TRECE.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/44HA8QkjCvLV4Gu5Vv8tEA?tags=CH_LOGO" group-title="Interés General", eltrece
 https://edge-live01-mun.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NzYyMDExIiwic2lwIjoiMTkwLjIyNy4xOS4xMTkiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiZGM1MDQzMWI0M2UyNzVhNiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMTYiLCJzb3VyY2VzIjpbMTA1LDg4XX0=.Ysr54UrmchHnmtduXJgAx6nIXwwMwLylP3dar6Rfpo-my2S-OobZAfVHqJ7Ih8e6kJ4ZHratEiDRZakplwyD7A==/live/c3eds/ArtearHD/SA_Live_dash_enc_wl/ArtearHD.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+
+#EXTINF:-1,Canal 10 MDQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Canal_10_Mar_del_Plata_nuevo_logo.png/250px-Canal_10_Mar_del_Plata_nuevo_logo.png"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=433feb8437c46bf835159eab785161b8:55f63cb757749c54c7c218f789308937
+https://edge-live01-mun.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NzYyMDExIiwic2lwIjoiMTkwLjIyNy4xOS4xMTkiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiZGM1MDQzMWI0M2UyNzVhNiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIxMTYiLCJzb3VyY2VzIjpbMTA1LDg4XX0=.Ysr54UrmchHnmtduXJgAx6nIXwwMwLylP3dar6Rfpo-my2S-OobZAfVHqJ7Ih8e6kJ4ZHratEiDRZakplwyD7A==/live/c3eds/Canal_10_MDQ/SA_Live_dash_enc/Canal_10_MDQ.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=3ddf62bf44e68f06a6adb810199df713:2ace15b4ffbe70940fdf04cf97e114e7
@@ -274,6 +287,12 @@ http://myultratv.com:8080/live/93wema56we34be78/58wumu473muwu85/12397.m3u8
 #EXTINF:-1 tvg-id="Canal90.ar" tvg-logo="https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg" group-title="NACIONALES Y NOTICIAS", DISNEY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 http://45.226.28.9:8085/Live/239061217b1a5957f6410945859ce45d/local-evento1_1080.m3u8
+
+#EXTINF:-1 tvg-name="TUDN" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=763ce1ebcaf23502c8cf357c6ef423e1:0c5e6c0820a1ea28753721db00272411
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/o2vy4aahsh/out/v1/e293c932745a44dcaf897573dfc53532/cenc.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a3ea9cbb34e7f4dbf6156a68f913d6d7:1c00f433ce482e2b8766a6a020634947
