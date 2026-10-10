@@ -286,7 +286,7 @@ http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Canal90.ar" tvg-logo="https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg" group-title="NACIONALES Y NOTICIAS", DISNEY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-http://45.226.28.9:8085/Live/239061217b1a5957f6410945859ce45d/local-evento1_1080.m3u8
+http://195.178.110.110/disney3/index.m3u8
 
 #EXTINF:-1 tvg-name="TUDN" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
