@@ -282,7 +282,7 @@ https://edge-live32-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 https://edge-live32-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkxNzU2NjM4Iiwic2lwIjoiMTgxLjEuNjkuMTM3IiwicGF0aCI6Ii8iLCJzZXNzaW9uX2Nkbl9pZCI6IjJmNWEwMzVjZTA3Y2FjNjciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiNTkiLCJzb3VyY2VzIjpbODhdfQ==.WTNOzVHxbLwbR08TAy6b9YRReFY-HQKXUw2t3gEga-7g05HlsfEdML1SohfRP5pcTx4I-pyCs_LB1KFhNTq6cA==/live/c4eds/DSports_Uruguay_Premium/SA_Live_dash_enc/DSports_Uruguay_Premium.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 #EXTINF:-1 tvg-id="1148" tvg-logo="http://i.tvcluboficial.com/dazn.png" group-title="Deportes",DAZN HD
-http://myultratv.com:8080/live/93wema56we34be78/58wumu473muwu85/12397.m3u8
+http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="Canal90.ar" tvg-logo="https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg" group-title="NACIONALES Y NOTICIAS", DISNEY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
