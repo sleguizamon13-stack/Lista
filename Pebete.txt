@@ -286,7 +286,7 @@ http://wplatino.live:8080/live/AQ79/b7QJjxEWPbSX/143084.ts
 
 #EXTINF:-1 tvg-id="Canal90.ar" tvg-logo="https://i.pinimg.com/originals/7b/02/ca/7b02ca068cc60479987d5052f842fdf3.jpg" group-title="NACIONALES Y NOTICIAS", DISNEY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-https://khala.futlivehd.com/global/disney4/index.m3u8?ip=192.168.101.7&token=eadafe5e6a06e0e0492f30f01c30e94709c44aa2-6a-1791765704-1791711704
+https://khala.futlivehd.com/global/disney4/index.m3u8?ip=201.251.46.147&token=b0f5ea3f4889f622a924b13eb164597319601629-fb-1791767369-1791713369
 
 #EXTINF:-1 tvg-name="TUDN" tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
