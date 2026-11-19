@@ -631,6 +631,38 @@ https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #EXTINF:0 tvg-id="[ADSLA].Adult.Swim.uy" tvg-logo="https://i.postimg.cc/HWv2kQ9N/Logo-1.png" group-title="Cine, Novelas y Series", Adult Swim
 https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk1MjQ4OTkyIiwic2lwIjoiMTgxLjEyMy4xNzMuMjEwIiwicGF0aCI6Ii9saXZlL2MzZWRzL0VTUE5IRC9TQV9MaXZlX2Rhc2hfZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNjBlZmQ3ZmM2ZWIyYzQ3MCIsInNlc3Npb25faWQiOiI4NmJjZjI1ZGNmMDk1ODViMzMwNDY0NjdjMjg1YjE4ZC0xNzk1MDc2MTkyLTg3NyIsImNsaWVudF9pZCI6ImZsb3c6OTk5OTAwMDA2MzIwMzMzLS1mbG93Ojk5OTkwMDAwNjMyMDMzMzpQIiwiZGV2aWNlX2lkIjoiODZiY2YyNWRjZjA5NTg1YjMzMDQ2NDY3YzI4NWIxOGQiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTYiLCJhdWQiOiIzMTgiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.lbdDdf6-SeyfdISSfRRgsYLDApAsNR09HlWBosjoGx3DiIkgCe1YowfAzKYxiGmwIxztH4lWEpbIhaUorNbAoA==/live/c3eds/Adult_Swim/SA_Live_dash_enc/Adult_Swim.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
+#EXTINF:0 tvg-id="ENT Channel" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-channel.png", ENT Channel
+#EXTVLCOPT:network-caching=1000
+https://cdn.kift.live/webtv/ENT_Channel/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 tvg-id="ENT Family" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png", ENT Family
+#EXTVLCOPT:network-caching=1000
+https://cdn.kift.live/webtv/ENT_Family/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 tvg-id="ENT Movies" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-movies.png", ENT Movies
+#EXTVLCOPT:network-caching=1000
+https://cdn.kift.live/webtv/ENT_Movies/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 tvg-id="ENT Drama" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png", ENT Drama
+#EXTVLCOPT:network-caching=1000
+https://cdn.kift.live/webtv/ENT_Drama/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 tvg-id="ENT Classic" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-classic.png", ENT Classics
+#EXTVLCOPT:network-caching=1000
+https://cdn.kift.live/webtv/ENT_Classics/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 tvg-id="ENT Life" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png", ENT Life
+#EXTVLCOPT:network-caching=1000
+https://cdn.kift.live/webtv/ENT_Life/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 tvg-id="ENT Extreme" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png", ENT Extreme
+#EXTVLCOPT:network-caching=1000
+https://cdn.kift.live/webtv/Totalmusic_Concerts/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:0 tvg-id="ENT Comedy" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-comedy.png", ENT Comedy
+#EXTVLCOPT:network-caching=1000
+https://cdn.kift.live/webtv/Totalmusic_Dance/tracks-v1a1/mono.ts.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c0e2d5650551523ee94db5dc1a8a13d4:d555f25b35d8f32cf9efab28c24ca1ba
 #EXTINF:-1 ch-number="417" tvg-id="Lifetime.ar" tvg-logo="https://i.postimg.cc/tCYY96r9/Logo-1.png" group-title="Estilo de vida", Lifetime
@@ -793,10 +825,10 @@ https://edge-live20-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 
 #EXTINF:-1 tvg-id="1173" tvg-logo="http://i.tvcluboficial.com/elchavodel8.png" group-title="Mas vistos",El chavo del 8 HD
 #EXTVLCOPT:network-caching=1000
-https://183.giatvcdn.com/giatvplayout7/giatv-211465/playlist.m3u8
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/344.m3u8
 
 #EXTINF:-1 tvg-id="152" tvg-logo="http://i.tvcluboficial.com/chapulincolorado.png" group-title="24/7",Chapulin Colorado 24/7
-http://lamtv.site:8080/27116808/zs2Bbc7Zu5/43360.ts
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/152.m3u8
 
 #EXTINF:-1 tvg-id="635" tvg-logo="http://i.tvcluboficial.com/lossimpsons.png" group-title="24/7",Los Simpson 24/7
 #EXTVLCOPT:network-caching=1000
